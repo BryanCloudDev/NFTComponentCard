@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/qr-code-component-using-sass-and-mobile-first-rkvEC3oM9)
+- Solution URL: (https://www.frontendmentor.io/solutions/nft-component-using-css-and-html-S1GKuaRf9)
 - Live Site URL: (https://bryanclouddev.github.io/NFTComponentCard/)
 
 ## My process
@@ -54,7 +54,7 @@ I learned how to use the postions relative and absolute, even though flexbox is 
 
 ### Continued development
 
-I will definetely continue learning on how to use the position property.
+I will definetely continue learning on how to use the position property and avoid using relative units when possible for responsive content.
 
 ## Author
 
